@@ -1,0 +1,23 @@
+body{
+    
+
+    background-color: rgb(125, 140, 140);
+}
+.container{
+    text-align: center;
+    
+  
+}
+form{
+    border: 3px solid rgb(75, 4, 23);
+    border-radius: 18px;
+    width: 400px;
+    height: 400px;
+    margin: 100px 90px 60px 430px;
+    padding: 40px 20px 10px 20px ;
+    font-size: 27px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(136, 64, 64);
+    box-shadow: 10px 5px 8px 14px;
+    
+}
